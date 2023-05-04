@@ -1,6 +1,6 @@
 # 💫About Me :
 I'm currently working in flutter and also looking to collaborate in it.
-Also, learning various design patterns and architectures. Also, trying to improve coding practices.
+Also, learning various design patterns, architectures and trying to improve coding practices.
 Fun Fact - I also love music and reading.
 
 ## 🌐Socials
